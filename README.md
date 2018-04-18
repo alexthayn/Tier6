@@ -1,2 +1,2 @@
 # Tier6
-A Pokemon Go Companion App
+An Android Pokemon Go Companion App
